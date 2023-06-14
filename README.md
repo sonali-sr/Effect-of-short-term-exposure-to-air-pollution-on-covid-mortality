@@ -1,2 +1,2 @@
 # Effect-of-short-term-exposure-to-air-pollution-on-covid-mortality
-Effect of PM2.5 and O3 on covid mortality in Illinois
+This repo contains data, code and final report for project titled "Effect of short term exposure to air pollution on covid mortality'. It studies the effect of PM2.5 and O3 on covid mortality in Illinois. Bayesian Networks and Logistic regression were employed to analyze these effects. This project has been completed as a part of the AI and Development class @ Georgetown University. 
